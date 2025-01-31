@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <BrowserRouter>
       <Routes>
         <Route path={CONFIG.base} element={<Splash />} />
-        <Route path="/home" element={<GitProfile config={CONFIG} />} />
+        <Route path="home" element={<GitProfile config={CONFIG} />} />
       </Routes>
     </BrowserRouter>
     <GitProfile config={CONFIG} />
