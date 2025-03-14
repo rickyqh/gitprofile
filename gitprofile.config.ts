@@ -35,9 +35,16 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
-      // To hide the `External Projects` section, keep it empty.
+      header: 'Other Projects',
       projects: [
+        {
+          title: "Scissors, Paper, Stone Game",
+          description:
+            'This project presents a Scissors Paper Stone game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/q0TYSDAhpCNMwMHbPXn4Ru5cLX4aZM4yr3MA6QYbbRU/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/applab/q0TYSDAhpCNMwMHbPXn4Ru5cLX4aZM4yr3MA6QYbbRU',
+        }
       ],
     },
   },
