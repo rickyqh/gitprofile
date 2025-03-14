@@ -93,7 +93,13 @@ const CONFIG = {
       name: 'Introduction to Python with The Young Maker',
       body: 'Learning python basics with The Young Maker',
       year: 'Nov 2024',
-      link: 'https://example.com',
+      link: 'https://theyoungmaker.com/',
+    },
+    {
+      name: 'CSARC: Python (Grade 1) Merit',
+      body: 'Certificate of Achivement with Merit',
+      year: 'Dec 2024',
+      link: 'https://sg.nullspace.co/',
     }
   ],
   education: [
