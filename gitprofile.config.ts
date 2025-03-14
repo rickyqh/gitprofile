@@ -44,6 +44,46 @@ const CONFIG = {
           imageUrl:
             'https://studio.code.org/v3/files/q0TYSDAhpCNMwMHbPXn4Ru5cLX4aZM4yr3MA6QYbbRU/.metadata/thumbnail.png',
           link: 'https://studio.code.org/projects/applab/q0TYSDAhpCNMwMHbPXn4Ru5cLX4aZM4yr3MA6QYbbRU',
+        },
+        {
+          title: "Rigged Game",
+          description:
+            'This project presents a Rigged Game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/IjKFYzivqHftxNkTsLnKjDyUj6HlIGh-qZQqX2Gfk-k/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/spritelab/IjKFYzivqHftxNkTsLnKjDyUj6HlIGh-qZQqX2Gfk-k',
+        },
+        {
+          title: "Fighter Plane Game",
+          description:
+            'This project presents a fighter plane game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/WsM1KARwW4mP_pZjbr1XBKuii52t8YGQCtb2LXBNZZk/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/spritelab/WsM1KARwW4mP_pZjbr1XBKuii52t8YGQCtb2LXBNZZk',
+        },
+        {
+          title: "Playing Ball Game",
+          description:
+            'This project presents a playing ball game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/r8399vSq7xZUaO-XUO-TUAAwtE2d7PtsyM4_yDpzuQQ/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/spritelab/r8399vSq7xZUaO-XUO-TUAAwtE2d7PtsyM4_yDpzuQQ',
+        },
+        {
+          title: "Treasure Hunt Game",
+          description:
+            'This project presents a treasure hunt game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/-KsMMvsffBpmHyRBEte6cZ1lr3Yplk3yc8FmDURQqcQ/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/gamelab/-KsMMvsffBpmHyRBEte6cZ1lr3Yplk3yc8FmDURQqcQ',
+        },
+        {
+          title: "Crazy Ball Game",
+          description:
+            'This project presents a crazy ball game made on code.org.',
+          imageUrl:
+            'https://studio.code.org/v3/files/73tjoxY3K180KnZ7BEo6mNOYOU8D-tTJNxU2sfYDaDM/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/gamelab/73tjoxY3K180KnZ7BEo6mNOYOU8D-tTJNxU2sfYDaDM',
         }
       ],
     },
