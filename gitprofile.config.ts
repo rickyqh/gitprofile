@@ -84,6 +84,14 @@ const CONFIG = {
           imageUrl:
             'https://studio.code.org/v3/files/73tjoxY3K180KnZ7BEo6mNOYOU8D-tTJNxU2sfYDaDM/.metadata/thumbnail.png',
           link: 'https://studio.code.org/projects/gamelab/73tjoxY3K180KnZ7BEo6mNOYOU8D-tTJNxU2sfYDaDM',
+        },
+        {
+          title: "Shooting game",
+          description:
+            'This project presents a Shooting game made on code.org ',
+          imageUrl:
+            'https://studio.code.org/v3/files/7J1K5oufpMsD1STz_f2iJmBO5rg2HRKS8rRuPAer_T4/.metadata/thumbnail.png',
+          link: 'https://studio.code.org/projects/spritelab/7J1K5oufpMsD1STz_f2iJmBO5rg2HRKS8rRuPAer_T4',
         }
       ],
     },
@@ -123,10 +131,17 @@ const CONFIG = {
     'Scratch',
     'Design Thinking',
     'Python',
-    'Git',
     'MINDSTORMS EV3',
+    'Code.org'
   ],
   experiences: [
+    // {
+    //   company: '',
+    //   position: '',
+    //   from: '',
+    //   to: '',
+    //   companyLink: '',
+    // }
   ],
   certifications: [
     {
@@ -142,7 +157,13 @@ const CONFIG = {
       link: 'https://sg.nullspace.co/',
     }
   ],
-  education: [
+  educations: [
+    {
+      institution: 'Holy Innocents Primary School',
+      degree: 'Certification',
+      from: '2020',
+      to: '2025',
+    },
     {
       institution: 'The Young Maker',
       degree: 'Certification',
@@ -155,15 +176,6 @@ const CONFIG = {
       from: '2022',
       to: '2023',
     }
-  ],
-  educations: [
-    {
-      institution: 'Holy Innocents Primary School',
-      degree: 'Certification',
-      from: '2020',
-      to: '2025',
-    },
-
   ],
   publications: [],
   // Display articles from your medium or dev account. (Optional)
